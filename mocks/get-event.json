@@ -1,0 +1,10 @@
+{
+  "pathParameters": {
+    "id": "975b0ca0-b6f9-11ea-a599-e764a6d38f6c"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "jkhounsombath@gmail.com"
+    }
+  }
+}
